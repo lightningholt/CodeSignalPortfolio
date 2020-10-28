@@ -5,6 +5,6 @@ Directories:
 - Arcarde: solutions to problems in Arcade
   - Intro: .py files
   - Core: .py files
-  - DataBase: .sql files
+  - DataBase: .mysql files
   - Python: .py files 
   
